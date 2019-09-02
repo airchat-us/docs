@@ -13,7 +13,7 @@ If you have questions, you can always [email](mailto:alex@airchat.us) or skype u
 This is a simplified walkthrough to see the platform in action. Register at [airchat.us](https://airchat.us) to learn more.
 
 1. Register on [airchat.us](https://airchat.us/) using your Google account.
-2. Add a JavaScript snippet to [your website. Copy the snippet here [https://airchat.us/settings/install-pixel](https://airchat.us/settings/install-pixel).
+2. Add a JavaScript snippet to [your website. Copy the snippet here [https://airchat.us/settings/install-pixel](https://airchat.us/settings/install-pixel). ![Airchat Pixel](https://archt.blob.core.windows.net/static/img/docs/airchat-pixel.png)
 3. Add the following JavaScript code before the body tag closing:
 
 ```
