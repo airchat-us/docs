@@ -67,3 +67,5 @@ If you're using Stripe API inside your Airchat bots you're required to pass the 
                 }
 ```
 Example: ![airchatSDK.identify stripe customer id](https://archt.blob.core.windows.net/static/img/docs/airchat-sdk-identify-stripe-customer-id.png)
+
+See the complete example [here](https://github.com/airchat-us/docs/blob/master/README.md#airchat-sdk-1).
